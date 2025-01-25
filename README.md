@@ -61,34 +61,6 @@ For a detailed breakdown of each project, check out the [Project Log](#📑-proj
 
 ---
 
-## 🛠 How to Run the Projects
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/100-days-python-challenge.git
-   cd 100-days-python-challenge
-   ```
-
-2. Navigate to the desired day's folder:
-   ```bash
-   cd "Day 1"
-   ```
-
-3. Run the Python script:
-   ```bash
-   python main.py
-   ```
-
----
-
-## 📚 Prerequisites
-
-- Python 3.10 or higher
-- Basic knowledge of Python
-- An IDE or text editor (e.g., VS Code, PyCharm)
-
----
-
 ## 🤝 Contributions
 
 Feel free to open issues or submit pull requests if you'd like to improve the code or add suggestions!
@@ -97,13 +69,12 @@ Feel free to open issues or submit pull requests if you'd like to improve the co
 
 ## 🔗 Connect with Me
 
-- **GitHub**: [Your Username](https://github.com/yourusername)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourname)
+- **GitHub**: [Your Username](https://github.com/Ravik0)
+- **Twitter**: [@yourhandle](https://twitter.com/dripexcode)
+- **LinkedIn**: [Your Name](www.linkedin.com/in/ravi-kumar-b74a14247)
 
 ---
 
 Happy Coding! 🚀
 ```
 
-This structure ensures clarity and professionalism while making it easy for others to navigate your challenge repository. Let me know if you’d like to customize it further!
